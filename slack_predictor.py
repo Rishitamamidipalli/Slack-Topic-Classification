@@ -22,11 +22,8 @@ TOPIC_SIM_THRESHOLD = 0.30
 UNKNOWN_TOPIC = "Unknown"
 UNKNOWN_TOPIC_ID = -1
 ACCESS_KEYWORDS = [
-    "access", "permission", "grant", "role",
-    "etl", "tool", "tools",
-    "oracle", "database", "db",
-    "login", "onboarding", "new joiner",
-    "mirror", "mirroring"
+    "access", "permission", "role",
+    
 ]
 DATA_COLUMNS = [
     "person_name",
