@@ -11,6 +11,8 @@ ENV/
 # Jupyter and IPython
 .ipynb_checkpoints/
 
+*.csv
+
 # Environment variables and credentials
 .env
 *.env

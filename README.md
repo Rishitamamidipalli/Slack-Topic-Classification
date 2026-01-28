@@ -6,7 +6,7 @@ This directory contains everything needed to fetch Slack questions, predict thei
 ## Contents
 ```
 app.py                 # Streamlit dashboard (historical + live)
-cosine.py              # Primary training pipeline that exports centroids
+Training.py              # Primary training pipeline that exports centroids
 model.py               # Alternate training/evaluation script
 slack_helper.py        # Slack Web API + Socket Mode utilities
 slack_predictor.py     # Historical fetch + topic/subtopic prediction
