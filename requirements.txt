@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+python-dotenv
+scikit-learn
+seaborn
+sentence-transformers
+slack-sdk
+streamlit
+torch

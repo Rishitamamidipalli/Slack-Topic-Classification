@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+*.env
+
+# Logs and runtime artifacts
+*.log
+
+# Model artifacts and large binaries
+*.pkl
+*.pickle
+*.joblib
+
+# Data files
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Streamlit state
+.streamlit/
